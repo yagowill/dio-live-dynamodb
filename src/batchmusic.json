@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Los Hermanos"},
+                  "SongTitle": {"S": "Paquetá"},
+                  "AlbumTitle": {"S": "4"},
+                  "SongYear": {"S": "2005"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Los Hermanos"},
+                  "SongTitle": {"S": "O Vencedor"},
+                  "AlbumTitle": {"S": "Ventura"},
+                  "SongYear": {"S": "2003"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Los Hermanos"},
+                  "SongTitle": {"S": "Corre"},
+                  "AlbumTitle": {"S": "2019"},
+                  "SongYear": {"S": "2019"}
                 }
             }
         }
